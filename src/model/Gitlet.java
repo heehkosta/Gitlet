@@ -1,4 +1,4 @@
-package test;
+package model;
 
 import front.controller.DispatcherGit;
 import front.controller.DispatcherLinux;
